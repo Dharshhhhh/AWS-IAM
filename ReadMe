@@ -81,8 +81,6 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 # Output:
 
 
-
-
 # Result:
 Thus an account was created in AWS platform and all the services were explored.
 
